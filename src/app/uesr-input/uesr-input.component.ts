@@ -5,8 +5,6 @@ import { InvestmentService } from '../investment.service';
 
 @Component({
   selector: 'app-uesr-input',
-  standalone: true,
-  imports: [FormsModule],
   templateUrl: './uesr-input.component.html',
   styleUrl: './uesr-input.component.css'
 })
